@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/refresh"
+        android:showAsAction="never"
+        android:title="刷新" />
+    <item
+        android:id="@+id/book_case_add"
+        android:showAsAction="never"
+        android:title="添加" />
+    <item
+        android:id="@+id/search"
+        android:icon="@drawable/search"
+        android:showAsAction="always"
+        android:title="搜索" />
+</menu>

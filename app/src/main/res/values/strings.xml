@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Books</string>
+    <array name="menu">
+        <item>拍照</item>
+        <item>相册</item>
+    </array>
+    <array name="category_menu">
+        <item>删除</item>
+    </array>
+    <array name="addOption">
+        <item>手动</item>
+        <item>二维码</item>
+        <item>ISBN</item>
+    </array>
+</resources>
